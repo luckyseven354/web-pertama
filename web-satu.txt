@@ -1,0 +1,4 @@
+web pertama
+- kita bikin tampilan utama website.
+- kita atur tampilan tatak letak 
+- kita desain tampilan agak bisa menarik
