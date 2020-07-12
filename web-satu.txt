@@ -1,5 +1,5 @@
 web pertama
 - kita bikin tampilan utama website.
-- kita atur tampilan tatak letak 
 - kita desain tampilan agak bisa menarik
 - kita buat sistem penyimpanan barang
+- kita bikin membuat tampilan untuk login
