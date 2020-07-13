@@ -1,0 +1,8 @@
+Rencana kegiatan belajar pemograman
+- front end development
+  * bahasa c
+  * html
+  * css
+  * javascript
+- android developer
+  * java
